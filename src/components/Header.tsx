@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <Leaf className="h-8 w-8 text-primary" />
-          <span className="text-2xl font-bold text-foreground">Kerala Spices</span>
+          <span className="text-2xl font-bold text-foreground">Mankavil Spices</span>
         </div>
         
         <nav className="hidden md:flex items-center gap-8">
@@ -25,7 +25,7 @@ const Header = () => {
           </a>
         </nav>
 
-        <Button variant="premium" size="sm" className="gap-2">
+        <Button variant="default" size="sm" className="gap-2">
           <ShoppingBag className="h-4 w-4" />
           Shop Now
         </Button>

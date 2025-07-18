@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
               <Leaf className="h-8 w-8 text-primary" />
-              <span className="text-2xl font-bold">Kerala Spices</span>
+              <span className="text-2xl font-bold">Mankavil Spices</span>
             </div>
             <p className="text-background/80 mb-6 leading-relaxed max-w-md">
               Bringing you the finest organic spices from the spice gardens of Kerala, India. 
@@ -17,15 +17,15 @@ const Footer = () => {
             <div className="space-y-2 text-sm">
               <div className="flex items-center gap-2">
                 <MapPin className="h-4 w-4 text-primary" />
-                <span>Kochi, Kerala, India</span>
+                <span>Thenhipalam, Kerala, India</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-primary" />
-                <span>+91 98765 43210</span>
+                <span>+91 9591548462</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <span>hello@keralaspices.com</span>
+                <span>vishnupkmankavil@gmail.com</span>
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@ const Footer = () => {
         
         <div className="border-t border-background/20 mt-12 pt-8 text-center">
           <p className="text-background/60">
-            © 2024 Kerala Spices. Bringing authentic flavors from God's Own Country.
+            © 2024 Mankavil Spices. Bringing authentic flavors from God's Own Country.
           </p>
         </div>
       </div>
